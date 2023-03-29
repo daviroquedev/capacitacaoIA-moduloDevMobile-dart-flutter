@@ -1,0 +1,3 @@
+## EXERCICIO 02 - BAIXAR VSCODE
+
+image.png
